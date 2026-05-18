@@ -1,36 +1,76 @@
 🏠 House Price Analysis Dashboard
+📌 Project Overview
 
-📊 About the Project
+The House Price Analysis Dashboard is an interactive Power BI project designed to analyze real estate market trends and property sales performance.
+This dashboard transforms raw housing data into meaningful insights through clean visualizations, KPI tracking, and region-wise comparisons.
 
-This project is a Power BI dashboard where I explored house price data to understand how the real estate market is performing.
+The objective of this project is to better understand:
 
-I tried to keep the dashboard simple but useful, focusing on key questions like:
+Regional variations in house prices
+Sales performance trends
+Differences between offer price and actual purchase price
+Property type distribution and valuation
+Price per square meter across different regions
 
-How prices vary across different regions
-Which property types are more expensive
-How sales are performing over time
-Whether offer prices are close to actual purchase prices
+The dashboard was built with a focus on simplicity, usability, and business insights, making it easy to explore the housing market interactively.
 
-🛠️ Tools Used
-
-Power BI
-Excel (for dataset)
-DAX (for calculations)
-
-📌 What the Dashboard Shows
-
-Total sales and number of units sold (latest data)
-Price changes across regions
-Comparison between offer price and purchase price
-Breakdown of house types (Villa, Apartment, Farm, etc.)
-Sales performance by region and sales type
+🛠️ Tools & Technologies Used
+Power BI – Data visualization & dashboard creation
+Microsoft Excel – Data source & preprocessing
+DAX (Data Analysis Expressions) – Custom calculations & measures
+📊 Dashboard Features
+✅ Key KPIs
+Total Sales
+Units Sold
+Average Purchase Price
+Average Offer Price
+📍 Regional Analysis
+Sales distribution by region
+Region-wise price comparison
+Performance analysis across cities
+🏡 Property Insights
+Breakdown by property type:
+Villa
+Apartment
+Farm
+Other residential categories
+Price comparison among property types
+📈 Sales Trend Analysis
+Sales performance over time
+Comparison between sales types
+Market trend visualization
+💰 Price Analysis
+Offer Price vs Purchase Price comparison
 Price per square meter analysis
-There are also filters (like region, city, and sales type) to explore the data more interactively.
+Regional pricing variations
+🎛️ Interactive Filters
 
-📈 Some Key Observations
+Users can dynamically filter the dashboard using:
 
-Zealand region seems to contribute the most to overall sales
-Offer price and purchase price are closely related in most cases
-Villas and apartments generally have higher prices
-Some sales types (like family sales) show a drop compared to others
-Price per square meter is not consistent across regions
+Region
+City
+Sales Type
+Property Category
+🔍 Key Insights
+The Zealand region contributes significantly to overall sales performance.
+Offer prices and purchase prices are closely aligned in most transactions.
+Villas and apartments generally have higher market values compared to other property types.
+Certain sales categories, such as family sales, show comparatively lower performance.
+The price per square meter varies noticeably across regions, indicating diverse market conditions.
+🎯 Project Goals
+
+This project was created to:
+
+Practice real-world data analysis using Power BI
+Improve dashboard design and storytelling skills
+Generate actionable insights from housing market data
+Build an interactive business intelligence solution
+📷 Dashboard Preview
+
+Add screenshots of your dashboard here
+
+🚀 Future Improvements
+Add forecasting for future house prices
+Include demographic and economic indicators
+Enhance dashboard responsiveness and UI design
+Connect with live real estate datasets
